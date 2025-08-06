@@ -39,4 +39,4 @@ console.log(mints);
 console.log(second);
 console.log(miliSecond);
 console.log(time);
-console.log(rightNow);
+console.log(rightNow)
