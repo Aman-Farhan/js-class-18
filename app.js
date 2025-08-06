@@ -26,7 +26,7 @@ let rightNow = new Date();
 // console.log(date);
 
 
-let thisYear = rightNow.getFullYear();
+let thisYear = rightNow.getFullYear()
 let second = rightNow.getSeconds();
 let mints = rightNow.getMinutes();
 let hours = rightNow.getHours();
