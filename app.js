@@ -38,5 +38,5 @@ console.log(hours);
 console.log(mints)
 console.log(second);
 console.log(miliSecond);
-console.log(time);
+console.log(time)
 console.log(rightNow)
