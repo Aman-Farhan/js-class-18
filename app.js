@@ -28,7 +28,7 @@ let rightNow = new Date();
 
 let thisYear = rightNow.getFullYear();
 let second = rightNow.getSeconds();
-let mints = rightNow.getMinutes()
+let mints = rightNow.getMinutes();
 let hours = rightNow.getHours();
 let miliSecond = rightNow.getMilliseconds();
 let time = rightNow.getTime();
