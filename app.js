@@ -30,7 +30,7 @@ let thisYear = rightNow.getFullYear();
 let second = rightNow.getSeconds();
 let mints = rightNow.getMinutes();
 let hours = rightNow.getHours();
-let miliSecond = rightNow.getMilliseconds();
+let miliSecond = rightNow.getMilliseconds()
 let time = rightNow.getTime();
 
 console.log(thisYear);
