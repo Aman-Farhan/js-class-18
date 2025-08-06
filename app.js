@@ -35,7 +35,7 @@ let time = rightNow.getTime();
 
 console.log(thisYear);
 console.log(hours);
-console.log(mints);
+console.log(mints)
 console.log(second);
 console.log(miliSecond);
 console.log(time);
